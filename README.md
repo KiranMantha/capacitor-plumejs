@@ -1,6 +1,6 @@
 
-## Plumejs Repo
-For Documentation, please visit [here](https://github.com/KiranMantha/plumejs/wiki)
+## Capacitor PlumeJS
+This is a sample project setup using plumejs and initiated by capacitorjs
 
 ## Next Steps
 1. To start application, run `npm start`
