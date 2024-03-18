@@ -6,7 +6,10 @@ import globalstyles from './styles/styles.scss?inline';
 })
 class TestElement {
   render() {
-    return html`<div data-testid="test-ele">i'm child element</div>`;
+    return html`<div data-testid="test-ele">
+      <p>i'm child element</p>
+      <p></p>
+    </div>`;
   }
 }
 
